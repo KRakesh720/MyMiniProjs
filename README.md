@@ -1,2 +1,2 @@
-# MyMiniProjs
-MiniProjects
+Hi welcome
+This is React_app i am adding all my mini projects and assignments as react components so each components has it won logics and states...
